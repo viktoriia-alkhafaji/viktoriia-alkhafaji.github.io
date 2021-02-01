@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viktoriia-alkhafaji/viktoriia-alkhafaji.github.io/issues"
   },
-  "homepage": "https://github.com/viktoriia-alkhafaji/viktoriia-alkhafaji.github.io#readme"
+  "homepage": "https://github.com/viktoriia-alkhafaji/viktoriia-alkhafaji.github.io#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
 }
